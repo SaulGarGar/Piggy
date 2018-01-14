@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "302387707726",
+    "firebase_url": "https://piggybank-42aab.firebaseio.com",
+    "project_id": "piggybank-42aab",
+    "storage_bucket": "piggybank-42aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302387707726:android:3a5b4e648285b242",
+        "android_client_info": {
+          "package_name": "mario.ochoa.bbva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302387707726-j97bteb9dpcb1eqhmd3gai0tdmcorjah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8B7zVyzQWLLhAYwMsu-RuPEHkYPZFII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
